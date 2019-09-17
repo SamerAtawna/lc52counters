@@ -1,1 +1,23 @@
-
+ion-icon {
+    font-size: 30px;
+    position: absolute;
+    left:5px;
+}
+ion-card-subtitle{
+    font-size: 22px;
+}
+ion-card{
+    background: linear-gradient(40deg,#45cafc,#303f9f)!important;
+}
+ion-card-subtitle{
+    color:white;
+}
+ion-card-title{
+    color:white;
+}
+.copyright{
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    font-size: 12px;
+}
